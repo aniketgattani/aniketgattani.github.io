@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<h2>The Journey</h2>
+Probably one of the best I got to learn a lot of interesting stuffs and a lot about the code of conduct to be maintained in Open Source. One of the most important thing I learned was Open Source is not just finding a bug providing a patch but also to see how     useful your patch will be to the project. Because its not just you its the whole community affected by it.   
 
-You can use the [editor on GitHub](https://github.com/aniketgattani/aniketgattani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Projects Involved</h2>
+During the one month long program I worked on the following projects like:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 2048
+* Sympy
+* URL-Shortener
+* Youtube Data Collector
+* Youtube Fast Playlist
 
-### Markdown
+<h2>Patches Provided</h2>
+    
+<h5>Merged</h5>
+  
+  * [Extended the functionality of game 2048](https://github.com/tibrewalpratik17/2048/pull/10)
+  * [Added a button to copy text to clipboard](https://github.com/modihere/url-shortener/pull/29)
+  * [Added a Clear Field button](https://github.com/modihere/url-shortener/pull/31)
+  * [Added a link to save bookmark](https://github.com/Parth-Vader/YoutubeDataCollector/pull/11)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h5>Open</h5>
+  
+  * [Score bar addition to 2048](https://github.com/tibrewalpratik17/2048_/pull/20)
+  * [Added an option to create **Multiple Playlists**](https://github.com/udiboy1209/fast_playlist/pull/33)
+  * [Added the option to create custom aliases](https://github.com/modihere/url-shortener/pull/44)
 
-```markdown
-Syntax highlighted code block
+<h5>Unmerged (Closed)</h5>
+  
+  * [Missing parentheses in LaTeX output corrected](https://github.com/sympy/sympy/pull/13674)
+  * [rs-series division by monomials](https://github.com/sympy/sympy/pull/13668)
+  * [rs-series division by polynomials](https://github.com/sympy/sympy/pull/13667)
+ 
+<h2>Areas worked upon</h2>
 
-# Header 1
-## Header 2
-### Header 3
+* Pygame
+* Django
+* RequireJS
+* Youtube API
+* Chrome Extensions
+* Maths and Computation
+* Markdown
+* Frontend
 
-- Bulleted
-- List
+<h2>Summary</h2>
 
-1. Numbered
-2. List
+* I started the program by first contributing to the sympy community. Sent 3 patches although couldn't get any of theme merged though but I learnt about what Sympy was all about and about Travis CI as an excellent testing interface. I mostly worked upon the Domains and Polynomial Rings and the RS Series. Was quite active in the gitter chat too.
+* Next was 2048 where I learnt a bit about Pygame and had a chance to show my frontend skills. Sent in a couple of patches there.
+* Next came the URL Shortener where I worked the most. Again did the frontend part add used Clipboard.js. The project was in Django which I am familiar with so brushed up my skills. Sent 3 patches there.
+* Then shifted on to the Youtube Data Collector and learnt a lot of interesting stuffs about Chrome Extensions. Sent in a patch and was very active in the chat room.
+* The last was the Youtube Fast Playlist project. I added the **Multiple Playlist** functionality to it. Retrieving and storing data into the cache was the most important task I carried out. Also learnt a lot about the Youtube API and RequireJS. Sent in a patch and was an active member of the chat room
 
-**Bold** and _Italic_ and `Code` text
+<h2>Other Contributions/ Learnings</h2>
+As Open Source is all about learning and contributing I focused more on the learning part rather than just sending in the patches. I was an active member of the chat room discussions for the projects **B.E.N.J.I and Air Hockey**. I learnt a lot about AI and Speech Recognition. I used to read in the queries posted in the discussion forums and they helped me a lot in the entire program. Styling your code in a proper manner is very much important. I also got to learn a lot more about Git and how useful it can be when too many collaborators work together on a big project.
 
-[Link](url) and ![Image](src)
-```
+<h2>Closure</h2>
+Overall it was an excellent journey and I learnt a lot from my mentors and also the other participants. Also,  Helping each other and giving in your inputs always helps. Some of the stuffs I got to know about, I never even saw them earlier. This would certainly help me in GSoC further. Thanks KOSS !! 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aniketgattani/aniketgattani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
